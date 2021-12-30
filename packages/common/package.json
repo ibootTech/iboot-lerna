@@ -1,5 +1,5 @@
 {
-  "name": "@iboot-lerna/common",
+  "name": "@iboottech/common",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -14,5 +14,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "674b799af222ac2bef01aa4ffabdb4c485aa2196"
 }
